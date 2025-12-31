@@ -1,5 +1,5 @@
 #  👋 Hi, I’m Sushil
- • 👨‍💻 Computer Engineering student who loves building things with code<br>• 📘 Always learning new technologies and improving skills<br>• 🛠 Enjoy creating simple, useful digital projects<br>• 🚀 Working towards becoming a skilled and confident software develope
+ • 👨‍💻 Computer Engineering student who loves building things with code<br>• 📘 Always learning new technologies and improving skills<br>• 🛠 Enjoy creating simple, useful digital projects<br>• 🚀 Working towards becoming a skilled and confident software developer
 
 
 ## 🌐 Socials:
