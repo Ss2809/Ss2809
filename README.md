@@ -1,6 +1,6 @@
 #  👋 Hi, I’m Sushil
  • 👨‍💻 Computer Engineering student who loves building things with code<br>• 📘 Always learning new technologies and improving skills<br>• 🛠 Enjoy creating simple, useful digital projects<br>• 🚀 Working towards becoming a skilled and confident software developer
-
+![](https://komarev.com/ghpvc/?username=Ss2809&color=green)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sushilpawar2321@gmail.com) 
