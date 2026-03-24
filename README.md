@@ -16,7 +16,7 @@
 - 🎓 Computer Engineering Student  
 - 🚀 Learning **DSA + Full Stack (MERN)**  
 - 🛠 Building useful & real-world projects  
-- 🎯 Goal: Crack top product-based companies  
+  
 
 ---
 
