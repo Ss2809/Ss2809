@@ -1,31 +1,53 @@
-<!-- HEADER ANIMATION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6A00F4,100:9B5DE5&height=220&section=header&text=Hi%20there,%20I'm%20Sushil%20Pawar%20👋&fontSize=36&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20DSA%20Enthusiast&descAlignY=58&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
-</p>
+<div align="center">
 
-<!-- DYNAMIC TYPING TEXT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer+💻;DSA+%26+Problem+Solving+Enthusiast+🧠;Building+Scalable+Web+Applications+🚀;Open+to+SDE+Intern+%26+Full-Time+Roles+💼" />
-</p>
+# SUSHIL PAWAR
 
-<!-- STATUS BADGES -->
-<p align="center">
-  <a href="mailto:sushilpawar2321@gmail.com">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00F7FF?style=for-the-badge&logo=briefcase&logoColor=black" alt="Status"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Ss2809&label=Profile%20Views&color=6A00F4&style=for-the-badge" alt="Views"/>
-</p>
+`FULL STACK DEVELOPER` · `DSA` · `COMPUTER ENGINEERING`
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+software.;Learning+how+systems+work.;Writing+code.+Solving+problems.;Always+building+better+foundations."/>
+
+<br><br>
+
+<a href="mailto:sushilpawar2321@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-58A6FF?style=flat-square&logo=gmail&logoColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/Ss2809">
+<img src="https://img.shields.io/badge/GITHUB-C9D1D9?style=flat-square&logo=github&logoColor=0D1117"/>
+</a>
+
+</div>
+
+<br>
 
 ---
 
-### 💫 About Me
+<div align="center">
 
-```javascript
-const sushil = {
-  name: "Sushil Pawar",
-  education: "Computer Engineering Student",
-  focus: ["Full Stack Development", "MERN Stack", "Data Structures & Algorithms"],
-  currentLearning: ["System Design Basics", "Next.js", "Advanced Backend"],
-  openFor: ["SDE Internships", "Full-Stack Roles", "Open Source Collaborations"],
-  location: "India 🇮🇳"
-};
+### `WHO AM I`
+
+**Computer Engineering Student**  
+focused on **Full Stack Development, DSA & Software Engineering**
+
+</div>
+
+<br>
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   $ whoami                                                  │
+│                                                             │
+│   sushil@developer:~$                                       │
+│                                                             │
+│   ├── role        →  Full Stack Developer                   │
+│   ├── education   →  Computer Engineering                   │
+│   ├── focus       →  DSA + Web Development                  │
+│   ├── backend     →  Node.js / REST APIs                    │
+│   ├── database    →  MongoDB / MySQL                        │
+│   ├── frontend    →  React / JavaScript                     │
+│   └── learning    →  Cloud / System Design                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
